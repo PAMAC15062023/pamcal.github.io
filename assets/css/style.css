@@ -31,7 +31,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: math;
+  font-family: 'Merriweather', serif;
 }
 
 /*--------------------------------------------------------------
@@ -182,7 +182,7 @@ h6 {
   line-height: 1;
   font-weight: 600;
   letter-spacing: 0.8px;
-  font-family:math;
+  font-family:'Merriweather', serif;
 }
 
 #header .logo a {
@@ -490,7 +490,7 @@ h6 {
   font-weight: 700;
   line-height: 56px;
   color: #222222;
-  font-family: math;
+  font-family: 'Merriweather', serif;
 }
 
 #hero h1 span {
@@ -502,7 +502,7 @@ h6 {
   margin: 5px 0 30px 0;
   font-size: 24px;
   font-weight: 400;
-  font-family: math;
+  font-family: 'Merriweather', serif;
 }
 
 #hero .btn-get-started {
@@ -1732,7 +1732,7 @@ section {
   font-size: 17px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: math;
+  font-family: 'Merriweather', serif;
   color: #777777;
 }
 
