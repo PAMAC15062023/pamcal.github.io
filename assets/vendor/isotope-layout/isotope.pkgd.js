@@ -1,20 +1,4 @@
-/*!
- * Isotope PACKAGED v3.0.6
- *
- * Licensed GPLv3 for open source use
- * or Isotope Commercial License for commercial use
- *
- * https://isotope.metafizzy.co
- * Copyright 2010-2018 Metafizzy
- */
 
-/**
- * Bridget makes jQuery widgets
- * v2.0.1
- * MIT license
- */
-
-/* jshint browser: true, strict: true, undef: true, unused: true */
 
 ( function( window, factory ) {
   // universal module definition
@@ -152,11 +136,7 @@ return jQueryBridget;
 
 }));
 
-/**
- * EvEmitter v1.1.0
- * Lil' event emitter
- * MIT License
- */
+
 
 /* jshint unused: true, undef: true, strict: true */
 
@@ -265,14 +245,6 @@ return EvEmitter;
 
 }));
 
-/*!
- * getSize v2.0.3
- * measure size of elements
- * MIT license
- */
-
-/* jshint browser: true, strict: true, undef: true, unused: true */
-/* globals console: false */
 
 ( function( window, factory ) {
   /* jshint strict: false */ /* globals define, module */
@@ -2945,8 +2917,6 @@ return Vertical;
  * Licensed GPLv3 for open source use
  * or Isotope Commercial License for commercial use
  *
- * https://isotope.metafizzy.co
- * Copyright 2010-2018 Metafizzy
  */
 
 ( function( window, factory ) {
